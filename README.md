@@ -1,4 +1,4 @@
-<h1 align="center">m-sefと申します、よろしくお願いいたします</h1>
+<h1 align="center">m-sefと申します、どうぞよろしくお願いいたします</h1>
 
 <!-- Programming languages and related stuff I've worked with -->
 <div align="center">
