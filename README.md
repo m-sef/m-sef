@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{m-sef}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=m-sef&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/m-sef"
+/>
 </a>
