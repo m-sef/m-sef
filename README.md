@@ -6,7 +6,7 @@
 <td valign="top" width="40%">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=dark&card_width=450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=dark&card_width=450">
 </a>
 
 </td>
@@ -42,4 +42,4 @@
 </td>
 </tr>
 </table>
-</div
+</div>
