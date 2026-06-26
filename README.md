@@ -28,3 +28,7 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{m-sef}?pet-id=1" width="1000" height="120"/>
+</a>
