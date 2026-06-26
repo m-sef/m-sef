@@ -1,17 +1,10 @@
 <h1 align="center">m-sefと申します。<ruby>分散<rt>ぶんさん</rt></ruby>システムに興味があります。</h1>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="40%">
-  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=dark&card_width=450">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=dark&card_width=450">
 </a>
 
-</td>
-<td valign="top" width="60%">
-
+<div>
 <!-- Programming languages and related stuff I've worked with -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -38,8 +31,4 @@
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-      
-</td>
-</tr>
-</table>
 </div>
