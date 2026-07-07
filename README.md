@@ -1,7 +1,7 @@
 <h1 align="center">m-sefと申します。<ruby>分散<rt>ぶんさん</rt></ruby>システムに興味があります。</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=highcontrast&card_width=450">
+<img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=m-sef&layout=compact&langs_count=12&theme=highcontrast&card_width=450">
 </a>
 
 <div>
